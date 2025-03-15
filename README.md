@@ -2,7 +2,6 @@
 - 👀 I’m interested in mathematics,science and coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
 - 😄 Pronouns:She
 - ⚡ Fun fact:Daydreamer
 
